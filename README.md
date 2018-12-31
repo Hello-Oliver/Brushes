@@ -1,8 +1,6 @@
 # Brushes
 Using Processing: simulate the Chinese ink style &amp; free particle growing style
 
-## 绘图结果
-![image](https://github.com/Hello-Oliver/Code-Drawing/blob/master/snow.PNG)
 ## "绘画系统"主题绘图作业链接
 #### [https://github.com/Hello-Oliver/Brushes](https://github.com/Hello-Oliver/Brushes)
 ## 写在前面
